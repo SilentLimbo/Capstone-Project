@@ -1,4 +1,5 @@
 # Capstone-Project
+
 ## Top-down shooter survival game (WIP)
 This is a project that I started and worked on by myself for my Senior Capstone project at CSUF. This project is currently unfinished, but I've created and uploaded a small demo of what the game is like.
 This is a work in progress, so I hope I'll be able to provide updates and actually find the time to polish the game.
