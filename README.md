@@ -10,7 +10,12 @@ Unfortunately, I underestimated the workload and time needed to develop a game f
 Below is a brief explanation of how to install the game. 
 
 ### Installation Guide
-
 1. Download the .zip folder.
 1. Export all contents of the folder wherever you'd like.
-1. Run the .exe file to play the game. 
+1. Run the .exe file to play the game.
+
+### Controls
+The game currently only has one set of controls, which involves a mouse and keyboard.
+1. "wasd" functions as movement keys.
+1. Left mouse click is to shoot (can tap or hold).
+1. Right mouse click is to swap weapons. 
