@@ -11,7 +11,7 @@ Below is a brief explanation of how to install the game.
 
 ### Installation Guide
 1. Download the .zip folder.
-1. Export all contents of the folder wherever you'd like.
+1. Extract all contents of the folder wherever you'd like.
 1. Run the .exe file to play the game.
 
 ### Controls
